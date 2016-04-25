@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Log files
+logfiles/
+
+# Output data
+testdata/SPL/
+
+# Misc.
+*.txt
